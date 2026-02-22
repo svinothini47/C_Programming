@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    char Name[]="Vinothini.S";
+    int Age= 23;
+    char City[]="Salem";
+    printf("Name : %s\n",Name);
+    printf("Age : %d\n",Age);
+    printf("City : %s\n",City);
+    
+    return 0;
+}
