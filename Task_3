@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    int a=43;
+    int b=35;
+    printf("Addition :%d",a+b);
+    return 0;
+}
